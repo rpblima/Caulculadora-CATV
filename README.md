@@ -1,2 +1,2 @@
 # Caulculadora-CATV
-Caáculo para projetos de CATV
+Cálculo para projetos de CATV
